@@ -18,20 +18,6 @@
   * pytesseract (Occular Character Recognition)
   * tkinter (UI)
 
-
-
-*Installation:*
-
-
-
-
-
-*Screenshots:*
-
-
-
-
-
 *Challenges:*
 
 * The bank statement pdfs are scans of printed statements, meaning they cannot be read directly by pdf reader software (requires text-based pdfs, not scans) or by image reader software (requires true images). I solved this problem by adding code that transforms pdf scans to true images as part of the pdf reading process.
