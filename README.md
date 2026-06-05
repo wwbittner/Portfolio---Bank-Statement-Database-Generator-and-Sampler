@@ -2,7 +2,7 @@
 
 
 
-*Problem:* Mississippi state agencies use UMB Bank for their official credit cards. The Office of the State Auditor received their statements as pdf scans, not spreadsheets. To build an Excel database, auditors must manually enter transactions into Excel, which takes hours for even small agencies.
+*Problem:* State agencies use UMB Bank for their official credit cards. Our agency received their statements as pdf scans, not spreadsheets. To build an Excel database, we must manually enter transactions into Excel, which takes hours for even small agencies.
 
 
 
